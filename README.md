@@ -1,4 +1,7 @@
 # bot-ntts
+## Description
+desc
+
 ## Commands
 ### Rock Paper Scissors Lizard Spock
 A different version of rock paper scissors.
@@ -14,6 +17,7 @@ The game rules are:
 - 🦎 beats 📰
 - 📰 beats 🖖
 - 🖖 beats 🪨
+- 
 (they are also avaible by tunning `/rps-lizard-spock help:True`
 
 ### Rock Paper Scissors
