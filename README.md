@@ -20,7 +20,7 @@ The game rules are:
 - 
 (they are also avaible by tunning `/rps-lizard-spock help:True`
 
-### Rock Paper Scissors
+### Tic Tac Toe
 Desc
 
 # Hosting
