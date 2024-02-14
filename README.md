@@ -17,7 +17,7 @@ The game rules are:
 - 🦎 beats 📰
 - 📰 beats 🖖
 - 🖖 beats 🪨
-- 
+
 (they are also avaible by tunning `/rps-lizard-spock help:True`
 
 ### Tic Tac Toe
