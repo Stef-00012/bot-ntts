@@ -20,6 +20,9 @@ The game rules are:
 
 (they are also avaible by tunning `/rps-lizard-spock help:True`
 
+### Battleship
+Desc
+
 ### Tic Tac Toe
 Desc
 
@@ -42,5 +45,8 @@ To start the bot just run the command `npm start` in the same folder
   - Idea: [Ciao287](https://github.com/Ciao287)
   - Code: [Ciao287](https://github.com/Ciao287)
 - `rps-lizard-spock` (Rock Paper Scissors Lizard Spock)
+  - Idea: [Ciao287](https://github.com/Ciao287)
+  - Code: [Stef-00012](https://github.com/Stef-00012)
+- `battleship`
   - Idea: [Ciao287](https://github.com/Ciao287)
   - Code: [Stef-00012](https://github.com/Stef-00012)
