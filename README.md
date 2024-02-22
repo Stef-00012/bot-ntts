@@ -41,7 +41,7 @@ The configuration file is `config.json`, in there you **must** chnage those opti
 To start the bot just run the command `npm start` in the same folder
 
 # Credits
-- `ttt` (Tic Tac Toe)
+- `tictactoe` (Tic Tac Toe)
   - Idea: [Ciao287](https://github.com/Ciao287)
   - Code: [Ciao287](https://github.com/Ciao287)
 - `rps-lizard-spock` (Rock Paper Scissors Lizard Spock)
