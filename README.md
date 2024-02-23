@@ -1,9 +1,13 @@
-# bot-ntts
+# Bot NTTS
 ## Description
-desc
+We made this bot with the intention to create some minigames that are not so famous on Discord or are in a very few bots.<br />
+The Rock Paper Scissors Lizard Spock minigame is a modified version of the common Rock Paper Scissors with the addition of Lizard and Spock, the original idea was taken from [The Big Bang Theory](https://www.imdb.com/title/tt2220955/characters/nm0101152).<br />
+The Tic Tac Toe minigame is the classic minigame with the addition of 3 levels of difficulty against the bot (easy = `1`, medium = `2`, hard = `3`).<br />
+The Battleship minigame is the classic battleship.<br />
+Whenever a user plays a minigame, the bot records if they won, lost or tied, those data are then displayed in a leaderboard on the `/leaderboard` command
 
 ## Commands
-### Rock Paper Scissors Lizard Spock
+### Rock Paper Scissors Lizard Spock (`/rps-lizard-spock`)
 A different version of rock paper scissors.
 You can either play against the bot or against another user.
 
@@ -21,7 +25,7 @@ You can either play against the bot or against another user.
 
 (they are also avaible by running `/rps-lizard-spock help:True`
 
-### Battleship
+### Battleship (`/battleship`)
 Play battleship aganist another user.
 The game first asks both users to place their own boat, then starts the game.
 During the game the users can view their own board (with enemy's hits) and a board with their own hits (without enemy's boats)
@@ -40,8 +44,11 @@ During the game the users can view their own board (with enemy's hits) and a boa
 these are also avaible in the correspoding board before the board
 all the used emojis are also avaible in the [/assets](/assets) folder
 
-### Tic Tac Toe
+### Tic Tac Toe (`/tictactoe`)
 Desc
+
+### Leaderboard (`/leaderboard`)
+Shows the server leaderboard of wins, ties or loses in the selected game
 
 # Hosting
 
