@@ -67,3 +67,6 @@ To start the bot just run the command `npm start` in the same folder
 - `battleship`
   - Idea: [Ciao287](https://github.com/Ciao287)
   - Code: [Stef-00012](https://github.com/Stef-00012)
+- `leaderboard`
+  - Idea: [Stef-00012](https://github.com/Stef-00012)
+  - Code: [Stef-00012](https://github.com/Stef-00012)
