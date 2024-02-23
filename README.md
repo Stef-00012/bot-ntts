@@ -29,7 +29,7 @@ During the game the users can view their own board (with enemy's hits) and a boa
 #### The meaning of the emojis in the own board is:
 - <span><img src="https://github.com/Stef-00012/bot-ntts/assets/81536172/b5c4056c-0ae4-455b-ab99-cdf69b037c03" width="20" style="vertical-align: middle;"></span> - Water without a hit
 - <span><img src="https://github.com/Stef-00012/bot-ntts/assets/81536172/aef77659-9a38-4b92-b129-a2ed204bc319" width="20" style="vertical-align: middle;"></span> - Water with an enemy missed hit
-- <span><img src="https://github.com/Stef-00012/bot-ntts/assets/81536172/09b141d4-7084-4017-a06e-8c32da103daf" width="20" style="vertical-align: middle;"></span> - ship without a hit
+- <span><img src="https://github.com/Stef-00012/bot-ntts/assets/81536172/09b141d4-7084-4017-a06e-8c32da103daf" width="20" style="vertical-align: middle;"></span> - Ship without a hit
 - <span><img src="https://github.com/Stef-00012/bot-ntts/assets/81536172/6447a624-9cc4-4252-9284-0d15583afd00" width="20" style="vertical-align: middle;"></span> - Ship hit by the enemy
 
 #### The meaning of the emojis in the hits board is:
