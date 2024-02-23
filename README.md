@@ -45,7 +45,7 @@ these are also avaible in the correspoding board before the board
 all the used emojis are also avaible in the [/assets](/assets) folder
 
 ### Tic Tac Toe (`/tictactoe`)
-Desc
+The classic minigame with the addition of 3 levels of difficulty against the bot (easy = `1`, medium = `2`, hard = `3`) and a mode agaist another user
 
 ### Leaderboard (`/leaderboard`)
 Shows the server leaderboard of wins, ties or loses in the selected game
