@@ -38,6 +38,7 @@ During the game the users can view their own board (with enemy's hits) and a boa
 - W3 - Water with an own successful hit
 
 these are also avaible in the correspoding board before the board
+all the used emojis are also avaible in the [/assets](https://github.com/Stef-00012/bot-ntts/tree/main/assets) folder
 
 ### Tic Tac Toe
 Desc
