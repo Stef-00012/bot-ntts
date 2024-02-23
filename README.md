@@ -6,7 +6,8 @@ desc
 ### Rock Paper Scissors Lizard Spock
 A different version of rock paper scissors.
 You can either play against the bot or against another user.
-The game rules are:
+
+#### The game rules are:
 - ✂️ beats 📰
 - 📰 beats 🪨
 - 🪨 beats 📰
@@ -18,10 +19,25 @@ The game rules are:
 - 📰 beats 🖖
 - 🖖 beats 🪨
 
-(they are also avaible by tunning `/rps-lizard-spock help:True`
+(they are also avaible by running `/rps-lizard-spock help:True`
 
 ### Battleship
-Desc
+Play battleship aganist another user.
+The game first asks both users to place their own boat, then starts the game.
+During the game the users can view their own board (with enemy's hits) and a board with their own hits (without enemy's boats)
+
+#### The meaning of the emojis in the own board is:
+- W1 - Water without a hit
+- W2 - Water with an enemy missed hit
+- S1 - ship without a hit
+- S2 - Ship hit by the enemy
+
+#### The meaning of the emojis in the hits board is:
+- W1 - Water wirthout a hit
+- W2 - Water with a own missed hit
+- W3 - Water with an own successful hit
+
+these are also avaible in the correspoding board before the board
 
 ### Tic Tac Toe
 Desc
