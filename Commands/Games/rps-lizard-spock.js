@@ -372,23 +372,23 @@ module.exports = {
                 })
             } else {
                 let userLeaderboardData = await LeaderboardSchema.findOne({
-                    User: inter.user.id,
-                    Guild: inter.guild.id
+                    User: interaction.user.id,
+                    Guild: interaction.guild.id
                 })
 
                 if (!userLeaderboardData) userLeaderboardData = new LeaderboardSchema({
-                    User: inter.user.id,
-                    Guild: inter.guild.id
+                    User: interaction.user.id,
+                    Guild: interaction.guild.id
                 })
 
                 let enemyLeaderboardData = await LeaderboardSchema.findOne({
-                    User: inter.user.id,
-                    Guild: inter.guild.id
+                    User: selectedEnemy.user.id,
+                    Guild: selectedEnemy.guild.id
                 })
 
                 if (!enemyLeaderboardData) enemyLeaderboardData = new LeaderboardSchema({
-                    User: inter.user.id,
-                    Guild: inter.guild.id
+                    User: selectedEnemy.user.id,
+                    Guild: selectedEnemy.guild.id
                 })
 
                 // otherwise, if the enemy is selected
